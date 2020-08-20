@@ -1,0 +1,1 @@
+This little script deletes thanos blocks that fall outside of the specified time window.
